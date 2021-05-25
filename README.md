@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [github.com/coderMicah/CardTestimonial](https://github.com/coderMicah/CardTestimonial)
+- Live Site URL: [micahcodes-testimonials.netlify.app](https://micahcodes-testimonials.netlify.app/)
 
 ## My process
 
@@ -52,5 +52,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/coderMicah)
-- Twitter - [@yourusername](https://www.twitter.com/_micahcodes)
+- Frontend Mentor - [@coderMicah](https://www.frontendmentor.io/profile/coderMicah)
+- Twitter - [@micahcodes](https://www.twitter.com/_micahcodes)
